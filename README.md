@@ -3,7 +3,7 @@
 
 [summary 바로가기](https://github.com/petersmith1996/sw2020/blob/main/summary.md)
 
-##1. 교과목형
+## 1. 교과목형
 ---
 * 2019-2 알고리즘
 [2019-2 알고리즘 HW5 바로가기](https://github.com/petersmith1996/2019-2_Alg_HW5)
@@ -14,7 +14,7 @@
 * 2020-1 운영체제
 [2020-1 운영체제 바로가기](https://github.com/petersmith1996/file_processing)
 
-##2. 자율과제형
+## 2. 자율과제형
 ---
 * 영단어 암기장 프로그램
 [영단어 암기장 프로그램 바로가기](https://github.com/petersmith1996/vocabulary_memorization)
